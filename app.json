@@ -1,0 +1,14 @@
+{
+    "name": "desdf",
+    "description": "kwekh",
+    "logo":"wrhndfg",
+    "keywords": ["gfgdv"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/xedymgfctfgyugy/fgesdf4fsd.git",
+    "stack": "container"
+}
